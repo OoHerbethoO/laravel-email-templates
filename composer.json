@@ -1,6 +1,8 @@
 {
     "name": "hpsweb/laravel-email-templates",
     "description": "Laravel Email Templates (Blade)",
+    "type": "library",
+    "homepage": "https://github.com/OoHerbethoO/laravel-email-templates",
     "keywords": [
         "php",
         "email",
@@ -21,5 +23,6 @@
             ]
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
