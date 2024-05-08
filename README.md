@@ -7,9 +7,8 @@ Easy to add to your current application, no need for complicated integration ste
 
 ## Premium Version Available At XSCode
 
-[![Foo](https://xscode.com/assets/promo-banner.svg)](https://xscode.com/simplepleb/laravel-email-templates)
-
-(click the banner above for premium version)
+[Original Project](https://github.com/simplepleb/laravel-email-templates)
+(simplepleb/laravel-email-templates)
 ## Screenshots
 - [Welcome Email](#welcomeEmail)
 - [Verification Email](#verifyEmail)
