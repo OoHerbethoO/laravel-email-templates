@@ -5,10 +5,13 @@ Fully integrated with Laravel: Mailer, Language, Config and uses the blade templ
 
 Easy to add to your current application, no need for complicated integration steps. Three Simple Integration Steps
 
+### [Original Project](https://github.com/simplepleb/laravel-email-templates) (simplepleb/laravel-email-templates)
+
 ## Premium Version Available At XSCode
 
-[Original Project](https://github.com/simplepleb/laravel-email-templates)
-(simplepleb/laravel-email-templates)
+[![Foo](https://xscode.com/assets/promo-banner.svg)](https://xscode.com/simplepleb/laravel-email-templates)
+
+(click the banner above for premium version)
 ## Screenshots
 - [Welcome Email](#welcomeEmail)
 - [Verification Email](#verifyEmail)
