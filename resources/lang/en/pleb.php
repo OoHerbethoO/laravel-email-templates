@@ -12,7 +12,7 @@
  *
  * @author  Simple-Pleb <plebeian.tribune@protonmail.com>
  * @website https://www.simple-pleb.com
- * @source https://github.com/simplepleb/laravel-email-templates
+ * @source https://github.com/hpsweb/laravel-email-templates
  *
  * @license Free to do as you please
  *
